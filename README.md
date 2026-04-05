@@ -10,7 +10,9 @@ Aplicando temas como:
 
 Este repositorio se actualizará a modo que avance la asignatura.
 
-Desarrollado por: Diego Andrés Galindo Almonacid
-Docente: Dr. Carlos Raúl Arias Méndez
-Asignatura: Tópicos A (Machine Learning)
-Marzo - Julio, 2026
+---
+
+- Desarrollado por: Diego Andrés Galindo Almonacid
+- Docente: Dr. Carlos Raúl Arias Méndez
+- Asignatura: Tópicos D (Machine Learning)
+- Marzo - Julio, 2026
